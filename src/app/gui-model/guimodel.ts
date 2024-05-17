@@ -215,7 +215,7 @@ export class GuiModel {
                         {
                             "type": "button",
                             "name": "Location",
-                            "icon": "fa-cubes",
+                            "icon": "fa-eye",
                             "color": "yellow",
                             "page": "locationspage",
                         },
